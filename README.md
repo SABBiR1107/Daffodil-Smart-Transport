@@ -441,7 +441,7 @@ The system uses 7 core database tables:
 
 | Name | Role | Student ID |
 |------|------|-----------|
-| Ahs@nur Sabbir | Developer | 211-15-XXXX |
+| Abdul Momin | Developer | 211-15-XXXX |
 
 > Built as a project for Daffodil International University
 
